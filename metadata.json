@@ -1,0 +1,7 @@
+{
+  "name": "SIÊU APP VIP PRO - VEO3 STUDIO",
+  "description": "Hệ thống kiến tạo kịch bản phim, quản lý thư viện tác phẩm và Voice Studio Pro dành cho nhà sáng tạo nội dung Video AI (VEO3/Sora).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
